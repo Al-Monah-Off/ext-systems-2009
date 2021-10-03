@@ -88,7 +88,7 @@
                 <version>3.3.1</version>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
-                    <outputDirectory>F:\Program Files\Java\apache-tomcat-9.0.53\webapps</outputDirectory>
+                    <outputDirectory>C:\Java\apache-tomcat-9.0.53\webapps</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>

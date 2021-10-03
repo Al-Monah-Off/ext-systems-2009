@@ -1,6 +1,7 @@
 C:\CNUS2\Monahov\Lesson\Java\ext-systems-2009\city-register\src\main\java\edu\javacourse\city\dao\PersonCheckDao.java
 C:\CNUS2\Monahov\Lesson\Java\ext-systems-2009\city-register\src\main\java\edu\javacourse\city\web\CheckPersonServlet.java
 C:\CNUS2\Monahov\Lesson\Java\ext-systems-2009\city-register\src\main\java\edu\javacourse\city\dao\ConnectionBuilder.java
+C:\CNUS2\Monahov\Lesson\Java\ext-systems-2009\city-register\src\main\java\edu\javacourse\city\domain\LocalDateAdapter.java
 C:\CNUS2\Monahov\Lesson\Java\ext-systems-2009\city-register\src\main\java\edu\javacourse\city\domain\PersonResponse.java
 C:\CNUS2\Monahov\Lesson\Java\ext-systems-2009\city-register\src\main\java\edu\javacourse\city\dao\PoolConnectionBuilder.java
 C:\CNUS2\Monahov\Lesson\Java\ext-systems-2009\city-register\src\main\java\edu\javacourse\city\web\CheckPersonService.java
